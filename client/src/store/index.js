@@ -6,7 +6,7 @@ const state = proxy({
   isLogoTexture: true,
   isFullTexture: false,
   isHoodie: false,
-  logoDecal: './src/assets/shirt-icon.png',
+  logoDecal: './shirt-icon.png',
   fullDecal: './threejs.png',
   logoSize: 0.15,
 });
