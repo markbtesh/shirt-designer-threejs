@@ -1,4 +1,5 @@
-![image](https://github.com/markbtesh/shirt-designer-threejs/assets/63694092/44e28fb3-eea8-4256-b6fb-65e62a0cc586)
+![image](https://github.com/markbtesh/shirt-designer-threejs/assets/63694092/8000ef83-a7cd-43dc-9cfb-8f4045e57f00)
+
 
 
 Link to site:
