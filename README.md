@@ -9,5 +9,4 @@ shirt-designer-threejs.vercel.app
 Design a T-shirt/hoodie with custom designs & patterns. Ask AI to make a design to put on the shirt & then download the full mock-up.
 
 
-
-made with ThreeJS, Node.js, Express, React, Vercel, OpenAI
+uses ThreeJS, Node.js, Express, React, Vercel, OpenAI
